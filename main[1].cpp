@@ -1,5 +1,5 @@
 //Salwa A. Majeed
-//CS 141 Project 3 - Encryption
+//Project - Encryption
 /*
 This program allows user to create ciphers of words they choose or vice versa. The user is given 4 options; encryption(1), decryption(2),
 show all possiblities(3), and break code(4). If user chooses option 1, they input the shift(1-infinity), the direction(forwards or backwards), 
